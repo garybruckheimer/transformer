@@ -1,8 +1,8 @@
 # A TensorFlow Implementation of the Transformer: Attention Is All You Need
 
 ## Requirements
-  * NumPy >= 1.11.1
-  * TensorFlow >= 1.2 (Probably 1.1 should work, too, though I didn't test it)
+  * NumPy >= 1.4.1
+  * TensorFlow >= 1.10 (Tested)
   * regex
   * nltk
 
