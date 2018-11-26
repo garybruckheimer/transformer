@@ -1,4 +1,4 @@
-# A TensorFlow Implementation of the Transformer: Attention Is All You Need
+# A TensorFlow Implementation of the Transformer
 
 ## Requirements
   * NumPy >= 1.4.1
